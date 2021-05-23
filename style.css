@@ -1,0 +1,8 @@
+/* Colours and fonts */
+
+body{
+  background: rgb(230, 230 , 230);
+  color: rgb(50, 50, 50);
+  font-family: helvitica ;
+  font-size: 17px ;
+}
